@@ -5718,6 +5718,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7631107629570043406}
     m_Modifications:
+    - target: {fileID: 487356294134014981, guid: c7ab6dd14cc9043439df574709a4d95c,
+        type: 3}
+      propertyPath: ps
+      value: 
+      objectReference: {fileID: 709954362339519296}
+    - target: {fileID: 487356294134014981, guid: c7ab6dd14cc9043439df574709a4d95c,
+        type: 3}
+      propertyPath: ghost
+      value: 
+      objectReference: {fileID: 7631107629570043406}
     - target: {fileID: 4710300588236846167, guid: c7ab6dd14cc9043439df574709a4d95c,
         type: 3}
       propertyPath: m_Name
@@ -5798,11 +5808,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Particle System
       objectReference: {fileID: 0}
-    - target: {fileID: 8124282904323932445, guid: dd518af56d2e72b4d848df1b2ad71121,
-        type: 3}
-      propertyPath: ShapeModule.m_Rotation.x
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8124282904323932446, guid: dd518af56d2e72b4d848df1b2ad71121,
         type: 3}
       propertyPath: m_RootOrder
@@ -5863,6 +5868,12 @@ PrefabInstance:
 --- !u!4 &709954362339519299 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8124282904323932446, guid: dd518af56d2e72b4d848df1b2ad71121,
+    type: 3}
+  m_PrefabInstance: {fileID: 8747402227590474333}
+  m_PrefabAsset: {fileID: 0}
+--- !u!198 &709954362339519296 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 8124282904323932445, guid: dd518af56d2e72b4d848df1b2ad71121,
     type: 3}
   m_PrefabInstance: {fileID: 8747402227590474333}
   m_PrefabAsset: {fileID: 0}

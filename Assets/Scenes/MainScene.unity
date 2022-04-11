@@ -5635,7 +5635,7 @@ PrefabInstance:
     - target: {fileID: 709954362339519296, guid: 811a0cb91784b514a8a745e49505caf1,
         type: 3}
       propertyPath: InitialModule.startSpeed.scalar
-      value: 0.58
+      value: 0.92
       objectReference: {fileID: 0}
     - target: {fileID: 709954362339519297, guid: 811a0cb91784b514a8a745e49505caf1,
         type: 3}
@@ -5652,6 +5652,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: e27a3e2f84809914fa5bf3a7ac14ce9f, type: 2}
+    - target: {fileID: 1528455002488514313, guid: 811a0cb91784b514a8a745e49505caf1,
+        type: 3}
+      propertyPath: ghost
+      value: 
+      objectReference: {fileID: 4928523925057932591}
     - target: {fileID: 1528455002488514313, guid: 811a0cb91784b514a8a745e49505caf1,
         type: 3}
       propertyPath: player
