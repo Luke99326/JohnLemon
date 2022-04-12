@@ -1,6 +1,6 @@
 # JohnLemon
 ## Unity Version
-I ran into issues with unity 2021.2.14 but it 100% works with unity 2020.3.0 (tutorial version)
+I ran into a couple of issues with unity 2021.2.14. The particle effects/lerp/dot product still works, but some of the lighting and visual effects don't. It is 100% working on unity 2020.3.0 (tutorial version.)
 
 ## Particle Effect
 All ghosts have a particle effect following them as they walk around, no trigger is required.
