@@ -1,4 +1,6 @@
 # JohnLemon
+## Unity Version
+I ran into issues with unity 2021.2.14 but it 100% works with unity 2020.3.0 (tutorial version)
 
 ## Particle Effect
 All ghosts have a particle effect following them as they walk around, no trigger is required.
